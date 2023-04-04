@@ -1,0 +1,10 @@
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 10px;
+}
+.listmeal{
+  width: 200px;
+}
